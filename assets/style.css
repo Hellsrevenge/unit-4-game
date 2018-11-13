@@ -1,0 +1,84 @@
+body{
+    background-image: url('images/bac.gif');
+    background-size: cover;
+}
+#container {
+	width: 40%;
+
+}
+h1 {
+	color:whitesmoke;
+	font-family: fantasy;
+}
+
+p {
+	color: black;
+	font-family: fantasy;
+	margin:0;
+}
+
+
+header {
+	background-color: #f08e2a54;
+	
+}
+
+header h1 {
+	font-size: 55px;
+	
+}
+
+section {
+	background-color: #fbe7c89e;
+	padding: 20px;
+}
+
+#rnum{
+	font-size: 55px;
+	color: greenyellow;
+
+}
+
+#scoreboard {
+	background-color: #ffff0040;
+	width: 40%;
+}
+
+#win-counting {
+	color:pink;
+	font-size:40px;
+}
+
+#wins-element{
+	color:pink;
+	font-size:40px;
+}
+
+#losses-element{
+	color: blueviolet;
+	font-size:40px;
+}
+
+#currentscore-counting{
+	font-size: 55px;
+	color: red;
+	font-family: 'Times New Roman', Times, serif;
+	padding:20px;
+}
+
+#total {
+	font-size:40px;
+}
+
+#crystals {
+	margin: 20px;
+}
+
+#current-score {
+background:#00000085;
+}
+
+.crystalBtn {
+	margin-right: 20px;
+	height: 60px;
+}
